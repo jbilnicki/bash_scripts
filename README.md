@@ -1,2 +1,2 @@
 # bash_scripts
-my simple scripts in bash 
+directory contains my simple scripts in bash.
